@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "my-demo-server": {
+      "type": "stdio",
+      "command": "c:\\ai-rag\\8-mcp\\venv\\Scripts\\python.exe",
+      "args": ["8-mcp/demo1_calculator.py"],
+    }
+  }
+}
